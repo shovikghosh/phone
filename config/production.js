@@ -20,7 +20,7 @@ module.exports = {
     DB: {
         client: 'pg',
         connection: {
-            host: '127.0.0.1',
+            host: 'plivo.c2mgcentketw.ap-southeast-1.rds.amazonaws.com',
             user: 'postgres',
             password: 'postgres',
             database: 'plivo',
